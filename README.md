@@ -1,5 +1,7 @@
-<h1>간단한 ToDo 리스트 사이트</h1>
-
+<h1>간단한 ToDo 사이트</h1>
+<hr>
+framework : Spring Boot  </br>
+view : thymeleaf </br>
 
 DB정보 </br>
 user = root </br>
